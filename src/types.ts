@@ -169,6 +169,6 @@ export const enum BrowserKind {
   Opera = 'opera',
   Safari = 'safari',
   IE = 'internet_explorer',
-  WeChat = 'wechat',
   Edge = 'edge',
+  WeChat = 'wechat',
 }
